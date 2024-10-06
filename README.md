@@ -6,7 +6,7 @@ I am currently focused on cybersecurity and data privacy.
 
 Find me at: 
 <p>
-  <a href="[https://github.com/sponsors/alexandresanlim](https://helenglover.netlify.app/)">
+  <a href="https://helenglover.netlify.app">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/helen-glover">
